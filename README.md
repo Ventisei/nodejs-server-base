@@ -7,12 +7,15 @@ NodeJS Server Base Structure (ready to use)
 npm i
 ```
 
-### 2.1 Start server
+### 2 Set enviroment variables
+Rename ```.env.example``` to ```.env``` and set variables.
+
+### 3.1 Start server
 ```
 npm start
 ```
 
-### 2.2 Start server in development mode (restart on each file change)
+### 3.2 Start server in development mode (restart on each file change)
 ```
 npm run dev
 ```
